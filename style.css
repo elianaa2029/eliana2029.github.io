@@ -1,0 +1,67 @@
+body {
+  background-color: peachpuff;
+  font-family: 'Brush Script MT', cursive;
+}
+
+h1 {
+
+  color: sienna;
+  font-size: 60px;
+}
+
+.highlight {
+  background-color: lightyellow;
+}
+ 
+
+.layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+
+  justify-content: center;
+  align-items: center;
+
+}
+
+.ingredients {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.stackdown {
+  display: flex;
+  flex-direction: column;
+}
+
+.sideimages {
+ width: -50%;
+ display: block;
+ text-align: right;
+
+}
+
+h2 {
+  color: black;
+  font-size: 40px;
+  font-family: "EB Garamond", serif;
+  text-align: center;
+}
+
+p{
+  font-size: 17px;
+}
+
+ul {
+  font-size: 19px}
+
+  ol {
+    font-size: 19px;
+  }
